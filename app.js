@@ -10,7 +10,7 @@ app.use('/nsj',(req,res,next)=>{
   console.log('test')
   console.log('checkout 테스트')
 
-  ///////쓸데없는 단어 추가
+  ///////쓸데
 })
 
 app.listen(PORT, () => {
